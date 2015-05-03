@@ -17,4 +17,4 @@ add following line to the components of your config file.
 ]
 ```
 
-!["Yii2 AceTheme"](/screenshot.jpg "Yii2 AceTheme")
+!["Yii2 AceTheme"](/screenshot.png "Yii2 AceTheme")
