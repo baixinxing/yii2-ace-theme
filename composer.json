@@ -1,0 +1,21 @@
+{
+    "name": "baixinxing/yii2-ace-theme",
+    "description": "ACE theme for Yii2",
+    "type": "yii2-extension",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "baixinxing",
+            "email": "baixinxing@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "baixinxing\\ace\\": ""
+        }
+    }
+}
